@@ -11,7 +11,7 @@ const npc = newNonPlayableCharacter(50, 300)
 // }
 //moveNPC()
 
-npc.walkNorth(2000)
+npc.walkWest(2000)
 
 // Create the inventory
 const inventory = newInventory()
